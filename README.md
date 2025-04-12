@@ -50,10 +50,3 @@ This project follows **GPT-based architecture principles** while simplifying the
 
 ---
 
-## 🚀 Running the Project  
-
-### 🔹 **Requirements**  
-- **Python 3.8+**  
-- **PyTorch** (`pip install torch`)  
-- **Jupyter Notebook** (recommended)  
-- **GPU (optional but recommended for training acceleration)**  
